@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.seccion1 {
+    background-color: blue;
+}
+.parrafo {
+    color: red;
+}
+.imagen {
+    height: 120px;
+    width: 120px;
+}
+.pie {
+    background-color: black;
+    color: white;
+}
